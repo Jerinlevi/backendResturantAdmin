@@ -9,23 +9,22 @@ Backend API for a restaurant admin dashboard that manages menu items, orders, an
 - MongoDB + Mongoose
 
 ## ⚙️ Setup Instructions
+1. Clone Repository
 
-### 1. Clone Repository
-```bash
 git clone <repo-url>
 cd server
 
-### 2.Install Dependencies
+2.Install Dependencies
     npm install
 
-### 3. Environment Variables
+3. Environment Variables
 PORT=8000
 MONGODB_URI=your_mongodb_connection_string
 
-### 4. Run Server
+4. Run Server
 npm run dev
 
-### 5.📚 API Documentation
+5.📚 API Documentation
 
 Menu APIs
 	•	GET /api/menu
