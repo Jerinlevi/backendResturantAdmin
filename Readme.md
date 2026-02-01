@@ -15,8 +15,8 @@ git clone <repo-url>
 cd server
 
 2.Install Dependencies
-    npm install
-
+**    npm install
+**
 3. Environment Variables
 PORT=8000
 MONGODB_URI=your_mongodb_connection_string
